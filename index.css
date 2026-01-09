@@ -1,0 +1,31 @@
+h2 {
+  background-color: #87ceeb;
+}
+p {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+  text-align: center;
+}
+article {
+  margin-bottom: 50px;
+}
+.description {
+  background-color: #d3d3d3;
+  height: 230px;
+}
+button {
+  padding: 25px 40px;
+  margin-left: 10px;
+  background-color: #daa520;
+  border-radius: 15px;
+}
+.sale {
+  color: #881111;
+}
+.price {
+  color: #165a16;
+}
+b {
+  font-style: italic;
+  font-size: 25px;
+}
